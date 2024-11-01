@@ -570,8 +570,8 @@ li {
     }
 
     .tip-inner {
-        top: 745px;
-        right: 17px;
+        top: -95px;
+        right: -11px;
     }
 }
 
@@ -721,7 +721,7 @@ li {
     }
 
     .tip {
-        bottom: 167px;
+        bottom: 183px;
         right: 4px;
     }
 
@@ -739,10 +739,6 @@ li {
         right: 4px;
     }
 
-    .tip-inner {
-        top: 488px;
-        right: 3px;
-    }
 }
 
 @media(max-width:480px) {
@@ -764,9 +760,6 @@ li {
         padding: 20px 0;
     }
 
-    .tip-inner {
-        top: 460px;
-    }
 
     .page-back {
         right: 20px;
@@ -788,9 +781,7 @@ li {
         padding: 10px 27px 0 0;
     }
 
-    .tip-inner {
-        top: 313px;
-    }
+    
 
     .spotlight p {
         font-size: 13px;
@@ -816,9 +807,10 @@ li {
         height: 38px;
     }
 
-    .tip-inner {
-        top: 378px;
+    .tip {
+        right: -10px;
     }
+
 }
 
 @media(max-width: 320px) {
@@ -844,11 +836,7 @@ li {
     }
 
     .tip {
-        bottom: 214px;
-        right: 4px;
+        bottom: 217px;
     }
 
-    .tip-inner {
-        top: 275px;
-    }
 }
